@@ -1,0 +1,16 @@
+body{ 
+    text-align: center ;
+}
+
+#btnsorting {
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#btnsubmit {
+     margin-top: 20px;
+    margin-bottom: 20px;
+}
+input {
+    margin: 10px;
+}
